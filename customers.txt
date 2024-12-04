@@ -1,0 +1,14 @@
+Customer 1
+	Cust1000000000
+	U_coltonlee
+	colton
+	lee
+	2004
+	9000.000000
+Customer 2
+	Cust1000000001
+	U_cluebbering
+	test
+	test
+	1994
+	16000.000000

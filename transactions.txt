@@ -1,0 +1,12 @@
+Transaction 1
+	Trans10000
+	Cust1000000002
+	Prod10000
+	3
+	0
+Transaction 2
+	Trans10001
+	Cust1000000002
+	Prod10001
+	10
+	0
